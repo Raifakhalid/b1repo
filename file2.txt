@@ -1,1 +1,5 @@
 this is my second file
+
+
+New line entered
+text is edited
